@@ -31,7 +31,7 @@ A calculator is a device that uses numbers to execute arithmetic operations. Onl
 ![Percentage](https://github.com/sydalirza/Calculator/blob/main/Percentage.png)
 
 # Contributors
-- ! [Musaib Gillani](https://github.com/musaib01)
+-  [Musaib Gillani](https://github.com/musaib01)
 
 
 
