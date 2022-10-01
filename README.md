@@ -8,7 +8,6 @@ A calculator is a device that uses numbers to execute arithmetic operations. Onl
 
 # Arithmetic Operations
 
-  Operation	            Mathematical Function
 -    '+'	               plus or addition
 -    '-'	               minus or subtraction
 -    '*'              	 times, or multiply by
@@ -16,6 +15,23 @@ A calculator is a device that uses numbers to execute arithmetic operations. Onl
 -    '^'	               raised to the power of
 -    'ex'	             exponent, raise e to the power x
 -    '!'	               factorial of a value
+
+# Screenshots
+# 1- Addition
+![Addition](https://github.com/sydalirza/Calculator/blob/main/Addition.png)
+# 2- Subtraction
+![Subtraction](https://github.com/sydalirza/Calculator/blob/main/Subtraction.png)
+# 3- Division
+![Division](https://github.com/sydalirza/Calculator/blob/main/Division.png)
+# 4- Multiplication
+![Multiplication](https://github.com/sydalirza/Calculator/blob/main/Multiplication.png)
+# 5- Exponential
+![Exponential](https://github.com/sydalirza/Calculator/blob/main/Exponential.png)
+# 6- Percentage
+![Percentage](https://github.com/sydalirza/Calculator/blob/main/Percentage.png)
+
+# Contributors
+- ! [Musaib Gillani](https://github.com/musaib01)
 
 
 
