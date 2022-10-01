@@ -8,14 +8,14 @@ A calculator is a device that uses numbers to execute arithmetic operations. Onl
 
 # Arithmetic Operations
 
-  Operation	          Mathematical Function
--    +	               plus or addition
--    -	               minus or subtraction
--    *              	 times, or multiply by
--  / or ÷	           divided by, over, division by
--    ^	               raised to the power of
--    ex	             exponent, raise e to the power x
--    !	               factorial of a value
+  Operation	            Mathematical Function
+-    '+'	               plus or addition
+-    '-'	               minus or subtraction
+-    '*'              	 times, or multiply by
+-  '/ or ÷'	           divided by, over, division by
+-    '^'	               raised to the power of
+-    'ex'	             exponent, raise e to the power x
+-    '!'	               factorial of a value
 
 
 
